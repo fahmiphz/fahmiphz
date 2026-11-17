@@ -1,20 +1,15 @@
-<!-- Banner -->
+<a href="https://fahmi-bioorg.vercel.app">
+  <img src="./assets/hero.svg" alt="Fahmi Pahrezi — Motion Designer × 3D Web Developer" width="100%"/>
+</a>
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:ff6b6b&height=200&section=header&text=Fahmi%20Pahrezi&fontSize=56&fontColor=ffffff&fontAlignY=38&desc=Motion%20Designer%20%E2%80%A2%203D%20Web%20Developer&descAlignY=60&descSize=18&animation=fadeIn" alt="Fahmi Pahrezi" width="100%"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&pause=1200&color=FF4FD8&center=true&vCenter=true&width=640&lines=%3E+Bikin+web+yang+bisa+gerak+%26+diputer+3D;%3E+Kode+%2B+motion+%3D+pengalaman+yang+hidup;%3E+Insert+coin+to+continue..." alt="Typing SVG"/>
 </p>
 
 <p align="center">
-  <a href="https://github.com/fahmiphz">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1000&color=FF6B6B&center=true&vCenter=true&width=600&lines=Bikin+web+yang+bisa+gerak+%26+diputer+3D+%F0%9F%8C%80;Three.js+%E2%80%A2+React+Three+Fiber+%E2%80%A2+Remotion;Kode+%2B+motion+%3D+pengalaman+yang+hidup+%E2%9C%A8" alt="Typing SVG" />
-  </a>
+  <a href="https://fahmi-bioorg.vercel.app"><img src="https://img.shields.io/badge/▶_PLAY-fahmi--bioorg-ff4fd8?style=for-the-badge&labelColor=1c1240" alt="Links"/></a>
+  <img src="https://komarev.com/ghpvc/?username=fahmiphz&style=for-the-badge&color=7df9ff&label=VIEWERS" alt="Profile views"/>
 </p>
-
-<p align="center">
-  <a href="https://fahmi-bioorg.vercel.app"><img src="https://img.shields.io/badge/Links-fahmi--bioorg-ff6b6b?style=for-the-badge&logo=vercel&logoColor=white" alt="Links"/></a>
-  <img src="https://komarev.com/ghpvc/?username=fahmiphz&style=for-the-badge&color=302b63&label=PROFILE+VIEWS" alt="Profile views"/>
-</p>
-
----
 
 ## 👋 Tentang Saya
 
@@ -24,51 +19,30 @@ const fahmi = {
   focus: ["Web 3D interaktif", "Animasi berbasis kode", "UI yang hidup"],
   currentlyBuilding: "SYVA NetLab — simulasi praktikum 3D + asisten suara AI",
   stack: ["TypeScript", "React", "Next.js", "Three.js", "R3F", "Remotion"],
-  funFact: "Kontribusi saya diledakin Bomberman tiap hari 💣 (scroll ke bawah)",
+  funFact: "Kontribusi saya diledakin Bomberman tiap hari 💣",
 };
 ```
 
-## 🛠️ Tech Stack
+## 🛠️ Peralatan Studio
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=ts,js,html,css,react,nextjs,threejs,tailwind,nodejs,vercel,git,github,figma,blender&perline=7" alt="Tech stack"/>
 </p>
 
-## 🚀 Project Pilihan
+## 📼 Rak Kaset Project
 
 <table>
   <tr>
-    <td width="50%" valign="top">
-      <h3>🧪 <a href="https://github.com/fahmiphz/syva-netlab">SYVA NetLab</a></h3>
-      <p>Platform simulasi 3D interaktif berbasis web untuk SMK IT As-Syifa: visualisasi spasial realtime, asisten suara AI <b>SYVA</b>, dan Panel Authoring Guru.</p>
-      <img src="https://img.shields.io/badge/Three.js-000?style=flat-square&logo=threedotjs" alt="Three.js"/>
-      <img src="https://img.shields.io/badge/AI%20Voice-ff6b6b?style=flat-square" alt="AI Voice"/>
-    </td>
-    <td width="50%" valign="top">
-      <h3>📼 <a href="https://github.com/fahmiphz/bio-org">Bio-Org</a></h3>
-      <p>Halaman link-in-bio bertema rak kaset VHS retro. <a href="https://fahmi-bioorg.vercel.app">Lihat live →</a></p>
-      <img src="https://img.shields.io/badge/HTML-e34f26?style=flat-square&logo=html5&logoColor=white" alt="HTML"/>
-      <img src="https://img.shields.io/badge/Vercel-000?style=flat-square&logo=vercel" alt="Vercel"/>
-    </td>
+    <td width="50%"><a href="https://github.com/fahmiphz/syva-netlab"><img src="./assets/tape-syva.svg" alt="SYVA NetLab — simulasi praktikum 3D + asisten suara AI" width="100%"/></a></td>
+    <td width="50%"><a href="https://fahmi-bioorg.vercel.app"><img src="./assets/tape-bioorg.svg" alt="Bio-Org — link-in-bio rak kaset VHS" width="100%"/></a></td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
-      <h3>🛡️ <a href="https://github.com/fahmiphz/sentra">Sentra</a></h3>
-      <!-- TODO: ganti dengan deskripsi singkat Sentra -->
-      <p>Web app Next.js + TypeScript.</p>
-      <img src="https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs" alt="Next.js"/>
-      <img src="https://img.shields.io/badge/TypeScript-3178c6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"/>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🎬 Motion &amp; 3D</h3>
-      <p>Video animasi dari kode pakai <b>Remotion</b> + <b>React Three Fiber</b>, dan model 3D interaktif langsung di browser.</p>
-      <img src="https://img.shields.io/badge/Remotion-0b84f3?style=flat-square" alt="Remotion"/>
-      <img src="https://img.shields.io/badge/R3F-000?style=flat-square&logo=threedotjs" alt="R3F"/>
-    </td>
+    <td width="50%"><a href="https://github.com/fahmiphz/sentra"><img src="./assets/tape-sentra.svg" alt="Sentra — web app Next.js + TypeScript" width="100%"/></a></td>
+    <td width="50%"><img src="./assets/tape-motion.svg" alt="Motion Lab — video dan 3D dari kode dengan Remotion dan React Three Fiber" width="100%"/></td>
   </tr>
 </table>
 
-## 💣 Kontribusi Saya vs Bomberman
+## 🕹️ Insert Coin — Kontribusi vs Bomberman
 
 <p align="center">
   <picture>
@@ -79,7 +53,7 @@ const fahmi = {
 </p>
 
 <details>
-  <summary>🕹️ Mau main game lain? Klik di sini</summary>
+  <summary>👾 Ganti kaset game — Pac-Man &amp; Tetris</summary>
   <br/>
   <p align="center"><b>👻 Pac-Man</b></p>
   <p align="center">
@@ -99,12 +73,6 @@ const fahmi = {
   </p>
 </details>
 
----
-
 <p align="center">
-  <i>“Kalau bisa digerakin, kenapa cuma diem?”</i> 🌀
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff6b6b,50:302b63,100:0f0c29&height=110&section=footer" width="100%" alt="footer"/>
+  <sub>■ STOP · <i>“Kalau bisa digerakin, kenapa cuma diem?”</i> · ⏏ EJECT</sub>
 </p>
